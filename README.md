@@ -6,7 +6,7 @@
     <img src="https://hibernate.org/images/hibernate-logo.svg" alt="Descrição da imagem" width="100" height="100">
 </div>
 This repository contains a simple project using JPA / Hibernate for database access with the help of Professor Nélio Alves in the course 'Java Complete Object-Oriented Programming + Projects'. As the professor explained and taught, I replicated and implemented the logic in my project and published it here on GitHub to improve my learning.  
-
+  
 The objective of this project is to create a system that communicates with the database using JPA / Hibernate (Object-Relational Mapping), which is widely used in the job market due to its versatility in software development.
 
 DOCS:  
@@ -48,7 +48,7 @@ Section 22. Java EE - Object-Relational Mapping with JPA/Hibernate
 ##### Worknote #1 - Created all entities and maven dependencies
 Commit hash: [58e882e2b2c386580d79a954e17b74c08874bebf](https://github.com/MaurosMJ/curso-javacompletoSimpleJPA-APP/commit/58e882e2b2c386580d79a954e17b74c08874bebf)  
 Checklist:
-* Classes Pessoa, Program 
+* Classes: Pessoa, Program 
 * Maven Dependencies (Pom.xml): Mysql-connector-java, Hibernate-entitymanager and Hibernate-core  
 * JPA database conf: persistence.xml
 
