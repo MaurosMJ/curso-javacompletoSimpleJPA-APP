@@ -37,10 +37,6 @@ Section 22. Java EE - Object-Relational Mapping with JPA/Hibernate
     <img src="https://imgur.com/S0jtibK.png" alt="Descrição da imagem">
 </div>
 
-<div style="text-align:center;">
-    <img src="https://imgur.com/S0jtibK.png" alt="Descrição da imagem">
-</div>
-
 ### Entities:  
 
 <div style="text-align:center;">
