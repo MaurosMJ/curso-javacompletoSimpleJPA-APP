@@ -66,4 +66,4 @@ Commit hash: [31cd3ff3c8ed9f59d453b60c583e6c67bc6d894e](https://github.com/Mauro
 * Created `EntityManager` in `Program` (Main class)
 
 ## Credits:
-This repository is maintained by MaurosMJ. The Projects are based on the 'Java COMPLETO Programação Orientada a Objetos + Projetos' course.
+This repository is maintained by [MaurosMJ](https://github.com/MaurosMJ). The Projects are based on the 'Java COMPLETO Programação Orientada a Objetos + Projetos' course.
